@@ -1,4 +1,4 @@
-// ReSharper disable InconsistentNaming
+[assembly: HG.Reflection.SearchableAttribute.OptIn]
 namespace Template;
 
 public static class PluginInfo
